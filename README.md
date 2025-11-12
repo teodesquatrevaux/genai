@@ -1,0 +1,2 @@
+# genai
+project with Richard
