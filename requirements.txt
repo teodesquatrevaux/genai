@@ -1,6 +1,6 @@
-crewai
-crewai-tools
+crewai==0.67.1
+crewai-tools==0.13.0
+langchain-core==0.3.75
 langchain-openai
 tavily-python
 requests==2.32.4
-langchain-core==0.3.75
