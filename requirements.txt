@@ -1,6 +1,6 @@
-streamlit
 crewai
-crewai_tools
+crewai-tools
 langchain-openai
 tavily-python
-langchain_community
+requests==2.32.4
+langchain-core==0.3.75
