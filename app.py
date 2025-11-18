@@ -29,7 +29,7 @@ Entrez un sujet, et le 'Crew' va :
 
 sujet_video = st.text_area(
     "Quel est le sujet de votre vidéo ?",
-    value="L'impact du télétravail sur la productivité et le bien-être",
+    value="Comment une protéine est fabriquée à partir de l'ARN grâce aux ribosomes.",
     height=100
 )
 
